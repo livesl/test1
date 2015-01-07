@@ -15,6 +15,7 @@ public class NewJFrame1 extends javax.swing.JFrame {
     public NewJFrame1() {
         initComponents();
         System.out.println("git");
+        System.out.println("git1");
     }
 
     /**
